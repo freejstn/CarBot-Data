@@ -1,110 +1,107 @@
 {
     "Acura": {
         "founded": "1986",
-        "headquarters": "",
-        "website": "",
-        "logoPNG": "",
-        "productionOutput": "",
-        "website": ""
+        "headquarters": "Japan",
+        "flagEmoji": ":flag_jp:",
+        "website": "https://www.acura.com/",
+        "logoPNG": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Acura_logo.svg/245px-Acura_logo.svg.png",
+        "description": "Acura is the luxury vehicle division of Japanese automaker Honda. The brand was launched in the United States and Canada on 27 March 1986, marketing luxury, performance, and high-performance vehicles. [More on Wikipedia](https://en.wikipedia.org/wiki/Acura)",
     },
     "Alfa Romeo": {
         "nameShort": "Alfa",
         "founded": "1910",
         "headquarters": "Italy",
         "flagEmoji": ":flag_it:",
-        "website": "",
-        "logoPNG": "",
-        "productionOutput": "",
-        "website": ""
+        "website": "https://www.alfaromeo.com/",
+        "logoPNG": "https://upload.wikimedia.org/wikipedia/en/2/2a/Alfa_Romeo_logo.png",
+        "description": "Alfa Romeo Automobiles S.p.A. is an Italian premium car manufacturer. [More on Wikipedia](https://en.wikipedia.org/wiki/Alfa_Romeo)",
     },
     "Aston Martin": {
         "founded": "1913",
-        "headquarters": "",
-        "website": "",
-        "logoPNG": "",
-        "productionOutput": "",
-        "website": ""
+        "headquarters": "England",
+        "flagEmoji": ":flag_gb:",
+        "website": "https://www.astonmartin.com/en-us/",
+        "logoPNG": "https://www.gtopcars.com/wp-content/uploads/2020/01/Aston-Martin-Logo.png",
+        "description": "Aston Martin Lagonda Global Holdings plc is a British independent manufacturer of luxury sports cars and grand tourers. It was founded in 1913 by Lionel Martin and Robert Bamford. [More on Wikipedia](https://en.wikipedia.org/wiki/Aston_Martin)"
     },
     "Audi": {
         "founded": "1932",
-        "headquarters": "",
-        "website": "",
-        "logoPNG": "",
-        "productionOutput": "",
-        "website": ""
+        "headquarters": "Germany",
+        "flagEmoji": ":flag_de:",
+        "website": "https://www.audiusa.com/",
+        "logoPNG": "https://banner2.cleanpng.com/20180417/ape/kisspng-audi-a3-car-clip-art-car-logo-5ad5a161e7b173.007682371523949921949.jpg",
+        "description": "Audi AG is a German automobile manufacturer that designs, engineers, produces, markets and distributes luxury vehicles. Audi is a member of the Volkswagen Group and has its roots at Ingolstadt, Bavaria, Germany. Audi-branded vehicles are produced in nine production facilities worldwide. [More on Wikipedia](https://en.wikipedia.org/wiki/Audi)"
     },
     "Bentley": {
         "founded": "1919",
-        "headquarters": "",
-        "website": "",
-        "logoPNG": "",
-        "productionOutput": "",
-        "website": ""
+        "headquarters": "England",
+        "flagEmoji": ":flag_gb:",
+        "website": "https://www.bentleymotors.com/en.html",
+        "logoPNG": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Bentley_logo.svg/2560px-Bentley_logo.svg.png",
+        "description": "Bentley Motors Limited is a British manufacturer and marketer of luxury cars and SUVs—and a subsidiary of the Volkswagen Group since 1998. Headquartered in Crewe, England, the company was founded as Bentley Motors Limited by W. O. [More on Wikipedia](https://en.wikipedia.org/wiki/Bentley)"
     },
     "BMW": {
         "founded": "1916",
-        "headquarters": "",
-        "website": "",
-        "logoPNG": "",
-        "productionOutput": "",
-        "website": ""
+        "headquarters": "Germany",
+        "flagEmoji": ":flag_de:",
+        "website": "https://www.bmwusa.com/",
+        "logoPNG": "https://www.carlogos.org/car-logos/bmw-logo-2020-blue-white-grey.png",
+        "description": "Bayerische Motoren Werke AG, commonly referred to as BMW, is a German multinational company which produces luxury vehicles and motorcycles. The company was founded in 1916 as a manufacturer of aircraft engines, which it produced from 1917 until 1918 and again from 1933 to 1945. [More on Wikipedia](https://en.wikipedia.org/wiki/BMW)"
     },
     "Bugatti": {
         "founded": "1909",
-        "headquarters": "",
-        "website": "",
-        "logoPNG": "",
-        "productionOutput": "",
-        "website": ""
+        "headquarters": "France",
+        "flagEmoji": ":flag_fr:",
+        "website": "https://www.bugatti.com/",
+        "logoPNG": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Bugatti_logo.svg/2000px-Bugatti_logo.svg.png",
+        "description": "Automobiles Ettore Bugatti was a French car manufacturer of high-performance automobiles, founded in 1909 in the then-German city of Molsheim, Alsace by the Italian-born industrial designer Ettore Bugatti. The cars were known for their design beauty and for their many race victories. [More on Wikipedia](https://en.wikipedia.org/wiki/Bugatti)"
     },
     "Buick": {
         "founded": "1903",
-        "headquarters": "",
-        "website": "",
-        "logoPNG": "",
-        "productionOutput": "",
-        "website": ""
+        "headquarters": "United States",
+        "flagEmoji": ":flag_us:",
+        "website": "https://www.buick.com/",
+        "logoPNG": "https://upload.wikimedia.org/wikipedia/en/d/d6/Buick_Logo.png",
+        "description": "Buick is a division of the American automobile manufacturer General Motors. Named for automotive pioneer David Buick, it was among the first American marques of automobiles, and was the company that established General Motors in 1908. [More on Wikipedia](https://en.wikipedia.org/wiki/Buick)"
     },
     "Cadillac": {
         "founded": "1902",
-        "headquarters": "",
-        "website": "",
-        "logoPNG": "",
-        "productionOutput": "",
-        "website": ""
+        "headquarters": "United States",
+        "flagEmoji": ":flag_us:",
+        "website": "https://www.cadillac.com/",
+        "logoPNG": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Cadillac_logo.svg/2560px-Cadillac_logo.svg.png",
+        "description": "The Cadillac Motor Car Division is a division of the American automobile manufacturer General Motors Company (GM) that designs and builds luxury vehicles. Its major markets are the United States, Canada, and China. Cadillac models are distributed in 34 additional markets worldwide. [More on Wikipedia](https://en.wikipedia.org/wiki/Cadillac)"
     },
     "Chevrolet": {
         "nameShort": "Chevy",
-        "founded": "1911",
-        "headquarters": "",
-        "website": "",
-        "logoPNG": "",
-        "productionOutput": "",
-        "website": ""
+        "headquarters": "United States",
+        "flagEmoji": ":flag_us:",
+        "website": "https://www.chevrolet.com/",
+        "logoPNG": "https://upload.wikimedia.org/wikipedia/en/3/34/Chevrolet_logo.png",
+        "description": "Chevrolet, colloquially referred to as Chevy and formally the Chevrolet Division of General Motors Company, is an American automobile division of the American manufacturer General Motors. [More on Wikipedia](https://en.wikipedia.org/wiki/Chevrolet)"
     },
     "Chrysler": {
         "founded": "1925",
-        "headquarters": "",
+        "headquarters": "United States",
+        "flagEmoji": ":flag_us:",
         "website": "",
         "logoPNG": "",
-        "productionOutput": "",
-        "website": ""
+        "description": ""
     },
     "Citroen": {
         "founded": "1919",
         "headquarters": "",
         "website": "",
         "logoPNG": "",
-        "productionOutput": "",
-        "website": ""
+        "description": ""
     },
     "Dodge": {
         "founded": "1900",
-        "headquarters": "",
+        "headquarters": "United States",
+        "flagEmoji": ":flag_us:",
         "website": "",
         "logoPNG": "",
-        "productionOutput": "",
-        "website": ""
+        "description": ""
     },
     "Ferrari": {
         "founded": "1939",
@@ -112,8 +109,7 @@
         "flagEmoji": ":flag_it:",
         "website": "",
         "logoPNG": "",
-        "productionOutput": "",
-        "website": ""
+        "description": ""
     },
     "Fiat": {
         "founded": "1899",
@@ -121,25 +117,24 @@
         "flagEmoji": ":flag_it:",
         "website": "",
         "logoPNG": "",
-        "productionOutput": "",
-        "website": ""
+        "description": ""
     },
     "Ford": {
         "founded": "1903",
-        "headquarters": "",
+        "headquarters": "United States",
+        "flagEmoji": ":flag_us:",
         "website": "",
         "logoPNG": "",
-        "productionOutput": "",
-        "website": ""
+        "description": ""
     },
     "General Motors": {
         "nameShort": "GMC",
         "founded": "1911",
-        "headquarters": "",
+        "headquarters": "United States",
+        "flagEmoji": ":flag_us:",
         "website": "",
         "logoPNG": "",
-        "productionOutput": "",
-        "website": ""
+        "description": ""
     },
     "Genesis": {
         "founded": "2015",
@@ -147,15 +142,16 @@
         "website": "",
         "logoPNG": "",
         "productionOutput": "",
-        "website": ""
+        "description": ""
     },
     "Honda": {
         "founded": "1946",
-        "headquarters": "",
+        "headquarters": "Japan",
+        "flagEmoji": ":flag_jp:",
         "website": "",
         "logoPNG": "",
         "productionOutput": "",
-        "website": ""
+        "description": ""
     },
     "Hyundai": {
         "founded": "1967",
@@ -163,7 +159,7 @@
         "website": "",
         "logoPNG": "",
         "productionOutput": "",
-        "website": ""
+        "description": ""
     },
     "Hennessey": {
         "founded": "1991",
@@ -171,7 +167,7 @@
         "website": "",
         "logoPNG": "",
         "productionOutput": "",
-        "website": ""
+        "description": ""
     },
     "Infiniti": {
         "founded": "1989",
@@ -179,7 +175,7 @@
         "website": "",
         "logoPNG": "",
         "productionOutput": "",
-        "website": ""
+        "description": ""
     },
     "Jaguar": {
         "founded": "1922",
@@ -187,7 +183,7 @@
         "website": "",
         "logoPNG": "",
         "productionOutput": "",
-        "website": ""
+        "description": ""
     },
     "Jeep": {
         "founded": "1941",
@@ -195,7 +191,7 @@
         "website": "",
         "logoPNG": "",
         "productionOutput": "",
-        "website": ""
+        "description": ""
     },
     "Kia": {
         "founded": "1944",
@@ -203,7 +199,7 @@
         "website": "",
         "logoPNG": "",
         "productionOutput": "",
-        "website": ""
+        "description": ""
     },
     "Koenigsegg": {
         "founded": "1994",
@@ -211,7 +207,7 @@
         "website": "",
         "logoPNG": "",
         "productionOutput": "",
-        "website": ""
+        "description": ""
     },
     "Lamborghini": {
         "founded": "1963",
@@ -220,7 +216,7 @@
         "website": "",
         "logoPNG": "",
         "productionOutput": "",
-        "website": ""
+        "description": ""
     },
     "Land Rover": {
         "founded": "1948",
@@ -228,7 +224,7 @@
         "website": "",
         "logoPNG": "",
         "productionOutput": "",
-        "website": ""
+        "description": ""
     },
     "Lexus": {
         "founded": "1989",
@@ -236,7 +232,7 @@
         "website": "",
         "logoPNG": "",
         "productionOutput": "",
-        "website": ""
+        "description": ""
     },
     "Lotus": {
         "founded": "1962",
@@ -244,15 +240,16 @@
         "website": "",
         "logoPNG": "",
         "productionOutput": "",
-        "website": ""
+        "description": ""
     },
     "Maserati": {
         "founded": "1914",
-        "headquarters": "",
+        "headquarters": "Italy",
+        "flagEmoji": ":flag_it:",
         "website": "",
         "logoPNG": "",
         "productionOutput": "",
-        "website": ""
+        "description": ""
     },
     "Mazda": {
         "founded": "1920",
@@ -260,7 +257,7 @@
         "website": "",
         "logoPNG": "",
         "productionOutput": "",
-        "website": ""
+        "description": ""
     },
     "McLaren": {
         "founded": "1989",
@@ -268,7 +265,7 @@
         "website": "",
         "logoPNG": "",
         "productionOutput": "",
-        "website": ""
+        "description": ""
     },
     "Mitsubishi": {
         "founded": "1870",
@@ -276,7 +273,7 @@
         "website": "",
         "logoPNG": "",
         "productionOutput": "",
-        "website": ""
+        "description": ""
     },
     "Mercedes-Benz": {
         "nameShort": "Mercedes",
@@ -285,7 +282,7 @@
         "website": "",
         "logoPNG": "",
         "productionOutput": "",
-        "website": ""
+        "description": ""
     },
     "Mini": {
         "founded": "1969",
@@ -293,7 +290,7 @@
         "website": "",
         "logoPNG": "",
         "productionOutput": "",
-        "website": ""
+        "description": ""
     },
     "Nissan": {
         "founded": "1933",
@@ -301,7 +298,7 @@
         "website": "",
         "logoPNG": "",
         "productionOutput": "",
-        "website": ""
+        "description": ""
     },
     "Pagani": {
         "founded": "1992",
@@ -310,7 +307,7 @@
         "website": "",
         "logoPNG": "",
         "productionOutput": "",
-        "website": ""
+        "description": ""
     },
     "Porsche": {
         "founded": "1931",
@@ -318,7 +315,7 @@
         "website": "",
         "logoPNG": "",
         "productionOutput": "",
-        "website": ""
+        "description": ""
     },
     "Polestar": {
         "founded": "1996",
@@ -326,7 +323,7 @@
         "website": "",
         "logoPNG": "",
         "productionOutput": "",
-        "website": ""
+        "description": ""
     },
     "Rimac": {
         "founded": "2009",
@@ -334,7 +331,7 @@
         "website": "",
         "logoPNG": "",
         "productionOutput": "",
-        "website": ""
+        "description": ""
     },
     "Rolls-Royce": {
         "founded": "1906",
@@ -342,7 +339,7 @@
         "website": "",
         "logoPNG": "",
         "productionOutput": "",
-        "website": ""
+        "description": ""
     },
     "smart": {
         "founded": "1994",
@@ -350,7 +347,7 @@
         "website": "",
         "logoPNG": "",
         "productionOutput": "",
-        "website": ""
+        "description": ""
     },
     "Suzuki": {
         "founded": "1909",
@@ -358,7 +355,7 @@
         "website": "",
         "logoPNG": "",
         "productionOutput": "",
-        "website": ""
+        "description": ""
     },
     "Subaru": {
         "founded": "1953",
@@ -366,7 +363,7 @@
         "website": "",
         "logoPNG": "",
         "productionOutput": "",
-        "website": ""
+        "description": ""
     },
     "Tesla": {
         "founded": "2003",
@@ -374,7 +371,7 @@
         "website": "",
         "logoPNG": "",
         "productionOutput": "",
-        "website": ""
+        "description": ""
     },
     "Toyota": {
         "founded": "1937",
@@ -382,7 +379,7 @@
         "website": "",
         "logoPNG": "",
         "productionOutput": "",
-        "website": ""
+        "description": ""
     },
     "Volkswagen": {
         "nameShort": "VW",
@@ -391,7 +388,7 @@
         "website": "",
         "logoPNG": "",
         "productionOutput": "",
-        "website": ""
+        "description": ""
     },
     "Volvo": {
         "founded": "1927",
@@ -399,6 +396,6 @@
         "website": "",
         "logoPNG": "",
         "productionOutput": "",
-        "website": ""
+        "description": ""
     },
 }
