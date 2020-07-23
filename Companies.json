@@ -1,0 +1,404 @@
+{
+    "Acura": {
+        "founded": "1986",
+        "headquarters": "",
+        "website": "",
+        "logoPNG": "",
+        "productionOutput": "",
+        "website": ""
+    },
+    "Alfa Romeo": {
+        "nameShort": "Alfa",
+        "founded": "1910",
+        "headquarters": "Italy",
+        "flagEmoji": ":flag_it:",
+        "website": "",
+        "logoPNG": "",
+        "productionOutput": "",
+        "website": ""
+    },
+    "Aston Martin": {
+        "founded": "1913",
+        "headquarters": "",
+        "website": "",
+        "logoPNG": "",
+        "productionOutput": "",
+        "website": ""
+    },
+    "Audi": {
+        "founded": "1932",
+        "headquarters": "",
+        "website": "",
+        "logoPNG": "",
+        "productionOutput": "",
+        "website": ""
+    },
+    "Bentley": {
+        "founded": "1919",
+        "headquarters": "",
+        "website": "",
+        "logoPNG": "",
+        "productionOutput": "",
+        "website": ""
+    },
+    "BMW": {
+        "founded": "1916",
+        "headquarters": "",
+        "website": "",
+        "logoPNG": "",
+        "productionOutput": "",
+        "website": ""
+    },
+    "Bugatti": {
+        "founded": "1909",
+        "headquarters": "",
+        "website": "",
+        "logoPNG": "",
+        "productionOutput": "",
+        "website": ""
+    },
+    "Buick": {
+        "founded": "1903",
+        "headquarters": "",
+        "website": "",
+        "logoPNG": "",
+        "productionOutput": "",
+        "website": ""
+    },
+    "Cadillac": {
+        "founded": "1902",
+        "headquarters": "",
+        "website": "",
+        "logoPNG": "",
+        "productionOutput": "",
+        "website": ""
+    },
+    "Chevrolet": {
+        "nameShort": "Chevy",
+        "founded": "1911",
+        "headquarters": "",
+        "website": "",
+        "logoPNG": "",
+        "productionOutput": "",
+        "website": ""
+    },
+    "Chrysler": {
+        "founded": "1925",
+        "headquarters": "",
+        "website": "",
+        "logoPNG": "",
+        "productionOutput": "",
+        "website": ""
+    },
+    "Citroen": {
+        "founded": "1919",
+        "headquarters": "",
+        "website": "",
+        "logoPNG": "",
+        "productionOutput": "",
+        "website": ""
+    },
+    "Dodge": {
+        "founded": "1900",
+        "headquarters": "",
+        "website": "",
+        "logoPNG": "",
+        "productionOutput": "",
+        "website": ""
+    },
+    "Ferrari": {
+        "founded": "1939",
+        "headquarters": "Italy",
+        "flagEmoji": ":flag_it:",
+        "website": "",
+        "logoPNG": "",
+        "productionOutput": "",
+        "website": ""
+    },
+    "Fiat": {
+        "founded": "1899",
+        "headquarters": "Italy",
+        "flagEmoji": ":flag_it:",
+        "website": "",
+        "logoPNG": "",
+        "productionOutput": "",
+        "website": ""
+    },
+    "Ford": {
+        "founded": "1903",
+        "headquarters": "",
+        "website": "",
+        "logoPNG": "",
+        "productionOutput": "",
+        "website": ""
+    },
+    "General Motors": {
+        "nameShort": "GMC",
+        "founded": "1911",
+        "headquarters": "",
+        "website": "",
+        "logoPNG": "",
+        "productionOutput": "",
+        "website": ""
+    },
+    "Genesis": {
+        "founded": "2015",
+        "headquarters": "",
+        "website": "",
+        "logoPNG": "",
+        "productionOutput": "",
+        "website": ""
+    },
+    "Honda": {
+        "founded": "1946",
+        "headquarters": "",
+        "website": "",
+        "logoPNG": "",
+        "productionOutput": "",
+        "website": ""
+    },
+    "Hyundai": {
+        "founded": "1967",
+        "headquarters": "",
+        "website": "",
+        "logoPNG": "",
+        "productionOutput": "",
+        "website": ""
+    },
+    "Hennessey": {
+        "founded": "1991",
+        "headquarters": "",
+        "website": "",
+        "logoPNG": "",
+        "productionOutput": "",
+        "website": ""
+    },
+    "Infiniti": {
+        "founded": "1989",
+        "headquarters": "",
+        "website": "",
+        "logoPNG": "",
+        "productionOutput": "",
+        "website": ""
+    },
+    "Jaguar": {
+        "founded": "1922",
+        "headquarters": "",
+        "website": "",
+        "logoPNG": "",
+        "productionOutput": "",
+        "website": ""
+    },
+    "Jeep": {
+        "founded": "1941",
+        "headquarters": "",
+        "website": "",
+        "logoPNG": "",
+        "productionOutput": "",
+        "website": ""
+    },
+    "Kia": {
+        "founded": "1944",
+        "headquarters": "",
+        "website": "",
+        "logoPNG": "",
+        "productionOutput": "",
+        "website": ""
+    },
+    "Koenigsegg": {
+        "founded": "1994",
+        "headquarters": "",
+        "website": "",
+        "logoPNG": "",
+        "productionOutput": "",
+        "website": ""
+    },
+    "Lamborghini": {
+        "founded": "1963",
+        "headquarters": "Italy",
+        "flagEmoji": ":flag_it:",
+        "website": "",
+        "logoPNG": "",
+        "productionOutput": "",
+        "website": ""
+    },
+    "Land Rover": {
+        "founded": "1948",
+        "headquarters": "",
+        "website": "",
+        "logoPNG": "",
+        "productionOutput": "",
+        "website": ""
+    },
+    "Lexus": {
+        "founded": "1989",
+        "headquarters": "",
+        "website": "",
+        "logoPNG": "",
+        "productionOutput": "",
+        "website": ""
+    },
+    "Lotus": {
+        "founded": "1962",
+        "headquarters": "",
+        "website": "",
+        "logoPNG": "",
+        "productionOutput": "",
+        "website": ""
+    },
+    "Maserati": {
+        "founded": "1914",
+        "headquarters": "",
+        "website": "",
+        "logoPNG": "",
+        "productionOutput": "",
+        "website": ""
+    },
+    "Mazda": {
+        "founded": "1920",
+        "headquarters": "",
+        "website": "",
+        "logoPNG": "",
+        "productionOutput": "",
+        "website": ""
+    },
+    "McLaren": {
+        "founded": "1989",
+        "headquarters": "",
+        "website": "",
+        "logoPNG": "",
+        "productionOutput": "",
+        "website": ""
+    },
+    "Mitsubishi": {
+        "founded": "1870",
+        "headquarters": "",
+        "website": "",
+        "logoPNG": "",
+        "productionOutput": "",
+        "website": ""
+    },
+    "Mercedes-Benz": {
+        "nameShort": "Mercedes",
+        "founded": "1926",
+        "headquarters": "",
+        "website": "",
+        "logoPNG": "",
+        "productionOutput": "",
+        "website": ""
+    },
+    "Mini": {
+        "founded": "1969",
+        "headquarters": "",
+        "website": "",
+        "logoPNG": "",
+        "productionOutput": "",
+        "website": ""
+    },
+    "Nissan": {
+        "founded": "1933",
+        "headquarters": "",
+        "website": "",
+        "logoPNG": "",
+        "productionOutput": "",
+        "website": ""
+    },
+    "Pagani": {
+        "founded": "1992",
+        "headquarters": "Italy",
+        "flagEmoji": ":flag_it:",
+        "website": "",
+        "logoPNG": "",
+        "productionOutput": "",
+        "website": ""
+    },
+    "Porsche": {
+        "founded": "1931",
+        "headquarters": "",
+        "website": "",
+        "logoPNG": "",
+        "productionOutput": "",
+        "website": ""
+    },
+    "Polestar": {
+        "founded": "1996",
+        "headquarters": "",
+        "website": "",
+        "logoPNG": "",
+        "productionOutput": "",
+        "website": ""
+    },
+    "Rimac": {
+        "founded": "2009",
+        "headquarters": "",
+        "website": "",
+        "logoPNG": "",
+        "productionOutput": "",
+        "website": ""
+    },
+    "Rolls-Royce": {
+        "founded": "1906",
+        "headquarters": "",
+        "website": "",
+        "logoPNG": "",
+        "productionOutput": "",
+        "website": ""
+    },
+    "smart": {
+        "founded": "1994",
+        "headquarters": "",
+        "website": "",
+        "logoPNG": "",
+        "productionOutput": "",
+        "website": ""
+    },
+    "Suzuki": {
+        "founded": "1909",
+        "headquarters": "",
+        "website": "",
+        "logoPNG": "",
+        "productionOutput": "",
+        "website": ""
+    },
+    "Subaru": {
+        "founded": "1953",
+        "headquarters": "",
+        "website": "",
+        "logoPNG": "",
+        "productionOutput": "",
+        "website": ""
+    },
+    "Tesla": {
+        "founded": "2003",
+        "headquarters": "",
+        "website": "",
+        "logoPNG": "",
+        "productionOutput": "",
+        "website": ""
+    },
+    "Toyota": {
+        "founded": "1937",
+        "headquarters": "",
+        "website": "",
+        "logoPNG": "",
+        "productionOutput": "",
+        "website": ""
+    },
+    "Volkswagen": {
+        "nameShort": "VW",
+        "founded": "1937",
+        "headquarters": "",
+        "website": "",
+        "logoPNG": "",
+        "productionOutput": "",
+        "website": ""
+    },
+    "Volvo": {
+        "founded": "1927",
+        "headquarters": "",
+        "website": "",
+        "logoPNG": "",
+        "productionOutput": "",
+        "website": ""
+    },
+}
